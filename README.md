@@ -2,7 +2,8 @@
 Creates a spotify playlist with the billboard top 100 of the desired date
 
 # .env
-You need to create a .env with your spotify api's CLIENT_ID, CLIENT_SECRET and REDIRECT_URI\n
+You need to create a .env with your spotify api's CLIENT_ID, CLIENT_SECRET and REDIRECT_URI
+
 ``
 SPOTIPY_CLIENT_ID="your-spotipy-client-id"
 SPOTIPY_CLIENT_SECRET="your-spotipy-client-secret"
